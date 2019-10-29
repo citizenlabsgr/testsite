@@ -47,11 +47,11 @@ params:
     url: /our_work
   - title: About
     sublinks:
-    - title: Dropdown item
+    - title: Code of Conduct
       url: /
-    - title: Dropdown item
+    - title: Sponsors
       url: /
-    - title: Dropdown item
+    - title: Our Team
       url: /
   - title: News
     url: /
@@ -130,8 +130,6 @@ params:
       icon: facebook
     - link: https://twitter.com/citizen_labs
       icon: twitter
-    - link: https://bitbucket.org/#
-      icon: bitbucket
     bulmalogo: false
     quicklinks:
       column1:
