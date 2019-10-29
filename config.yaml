@@ -50,9 +50,9 @@ params:
     - title: Code of Conduct
       url: /about/conduct
     - title: Sponsors
-      url: /
+      url: /about/sponsor
     - title: Our Team
-      url: /
+      url: /about/team
   - title: News
     url: /
   - title: Contact
@@ -116,7 +116,7 @@ params:
   section5: true
   footer:
     # Logo (from /images/logos/___)
-    logo: fresh-white-alt.svg
+    logo: CL_Logo.png
     # Social Media Title
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
