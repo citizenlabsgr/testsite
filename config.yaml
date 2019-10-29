@@ -48,7 +48,7 @@ params:
   - title: About
     sublinks:
     - title: Code of Conduct
-      url: /
+      url: /about/conduct
     - title: Sponsors
       url: /
     - title: Our Team
