@@ -129,8 +129,32 @@ Please contact Citizen Labs about harassment, feel free to use the email templat
 
 <br>
 
+<div class="content-wrapper">
+  <div class="columns">
+    <div class="column is-6 is-offset-3">
+      <form action="https://formspree.io/safespace@citizenlabs.org" method="post">
+        <div class="columns is-multiline">
+          <div class="column is-6">
+            <input class="input is-medium" type="text" placeholder="Enter your name">
+          </div>
+          <div class="column is-6">
+            <input class="input is-medium" type="_replyto" placeholder="Enter your email address">
+          </div>
+          <div class="column is-12">
+            <textarea class="textarea" rows="10" placeholder="When did this occur? Where did it occur? Please provide more details here."></textarea>
+          </div>
+          <div class="form-footer has-text-centered mt-10">
+            <button class="button cta is-large primary-btn raised is-clear">Send Message</button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
 
-`I am writing because of harassment at a Citizen Labs event or space, (NAME, PLACE, DATE OF EVENT). You can reach me at (CONTACT INFO). Thank you.`
+<br>
+
+
 <br>
 
 <br>

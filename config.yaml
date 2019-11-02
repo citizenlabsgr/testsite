@@ -2,7 +2,9 @@ baseURL: http://something-fresh.org/
 languageCode: en-us
 title: Citizen Labs
 theme: hugo-fresh
+MetaDataFormat: yaml
 googleAnalytics: UA-115392197-1
+#Disables warningss
 disableKinds:
  -taxonomy
  -taxonomyTerm
@@ -16,7 +18,7 @@ params:
   description: Empowering citizens to improve their communities and local government.
   navbarlogo:
   # Logo (from static/images/logos/___)
-   image: logos/CL_Logo.png
+   image: logos/CL_Logo-04-orange.png
    link: /
   font:
     name: "Open Sans"

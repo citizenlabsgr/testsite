@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Citizen Labs</title>
+    <link>http://something-fresh.org/about/</link>
+    <description>Recent content in Abouts on Citizen Labs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://something-fresh.org/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Code of Conduct</title>
+      <link>http://something-fresh.org/about/conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/about/conduct/</guid>
+      <description>Respect Citizen Labs is an intentionally positive community: that recognizes and celebrates creativity; collaboration of independent creators (and independence); and the diversity of people, cultures, and opinions that are a core strength of Citizen Labs.
+
+Citizen Labs spaces are an inclusive environment, based on treating all individuals respectfully, regardless of gender identity, sexual orientation, age, disability, medical conditions, nationality, ethnicity, religion (or lack thereof), physical appearance, or technology preferences.</description>
+    </item>
+    
+    <item>
+      <title>Our Team</title>
+      <link>http://something-fresh.org/about/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/about/team/</guid>
+      <description>We are an all-volunteer organization. Our Board helps coordinate and set priorities for Citizen Labs efforts.
+ Chair: Allen Clark Vice Chair: Brandon Klotz Treasurer: Joel Anderson Secretary: Max Dillivan Jace Browning Traci Montgomery Lee Mueller Sarah Titus   Interested in joining the team? Learn about the ways you can help, and then let us know.
+
+Below are some specific needs we have:
+
+Policy Guide: Work with communities and local governments on the goals of transparency, open data, empowerment, and community engagement.</description>
+    </item>
+    
+    <item>
+      <title>Sponsors</title>
+      <link>http://something-fresh.org/about/sponsor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/about/sponsor/</guid>
+      <description>Thank you to all of our sponsors who make our work possible through their important contributions to Citizen Labs.
+ Adobe Airtable Amazon Web Services Bugsnag Data.World The Factory Google Heroku Hootsuite Intuit Mailchimp Meetup Microsoft Peppino&#39;s Slack   </description>
+    </item>
+    
+  </channel>
+</rss>
